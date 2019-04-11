@@ -8,9 +8,9 @@
 Dipperin is a open source blockchain project, designed for business. Dipperin allows you build your blockchain network and create a programmable financial ecosystem.
 
 ## Features
-1. Original consensus mechanism
-2. Layered smart contract architecture
-3. Native multi-chain system
+1. High secure VRF based consensus mechanism
+2. High scalable WAVM smart contract virtual machine
+3. High available multi-chain system
 
 ## Getting started
 1. Read the [Getting Started](https://dipperin.readthedocs.io/en/latest/index.html) documentation
